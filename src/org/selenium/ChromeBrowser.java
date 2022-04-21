@@ -12,6 +12,7 @@ public class ChromeBrowser {
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://www.facebook.com/login/");
+		driver.get("https://www.gmail.com/login/");
 		
 	}
 
